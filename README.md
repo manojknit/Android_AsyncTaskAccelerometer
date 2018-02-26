@@ -31,7 +31,7 @@ Android app to demonstrate AsyncTask behavior of android. You can use AsyncTask 
 	}
 ```
 
-#### Broadcast message is received in TestReceiver class.
+#### AsyncTask implementation class.
 <img src="images/MyLongTask1.java - Android_AsyncTaskAccelerometer - [~DesktopProjectsAndroidStudioProjectsAndroid_AsyncTaskAccelerometer] 2018-02-25 19-14-43.png">
 
 ## Code
